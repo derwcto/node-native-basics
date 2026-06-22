@@ -1,6 +1,6 @@
 # Aprendizaje de Node.js Nativo 🚀
 
-Este repositorio contiene mis prácticas y primeros pasos en el desarrollo Backend con Node.js, siguiendo el curso de Midudev.
+Este repositorio contiene mis prácticas y primeros pasos en el desarrollo Backend con Node.js.
 
 ## 🛠️ Lo que incluye este proyecto:
 - Gestión de dependencias y configuración con `package.json`.
